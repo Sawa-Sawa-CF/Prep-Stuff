@@ -155,6 +155,9 @@ Estimate time to complete:
 # Domain Modeling
 ![DomainModeling](/assets/Domain-Modeling.png)
 
+## Database Schema
+![Schema](/assets/Database-Schema-Diagram.png)
+
 
 # WireFrame
 
